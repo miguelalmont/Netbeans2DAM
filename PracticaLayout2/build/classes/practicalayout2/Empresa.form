@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jPanel2" pref="380" max="32767" attributes="0"/>
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jPanel2" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="SOBRE NOSOTROS"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridLayout">
+        <Property name="columns" type="int" value="0"/>
+        <Property name="rows" type="int" value="1"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&lt;p&gt; &lt;ul&gt; &lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;Aliquam in purus ornare, vehicula nunc et, imperdiet ex.&lt;/li&gt; &lt;li&gt;Integer id ligula eu massa finibus ullamcorper.&lt;/li&gt; &lt;li&gt;Praesent egestas dui sed velit consectetur, eget vulputate est blandit.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;Fusce nec orci porta, porttitor felis id, porta dolor.&lt;/li&gt; &lt;li&gt;In finibus diam vel turpis commodo, at feugiat sem malesuada.&lt;/li&gt; &lt;li&gt;Donec vel sem ut diam venenatis efficitur in et nulla.&lt;/li&gt; &lt;li&gt;Ut lacinia diam sit amet tellus scelerisque, in condimentum justo pharetra.&lt;/li&gt; &lt;li&gt;Sed eleifend metus eget ipsum ultrices ullamcorper.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;Nulla sit amet nunc at tortor tristique mollis vitae in augue.&lt;/li&gt; &lt;li&gt;Nulla venenatis tellus ac tellus euismod pharetra.&lt;/li&gt; &lt;li&gt;Quisque eleifend orci vitae metus pulvinar egestas.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;Donec bibendum purus vitae augue bibendum, id cursus diam dictum.&lt;/li&gt; &lt;li&gt;Duis dictum felis id urna pulvinar venenatis.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;&lt;/html&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
